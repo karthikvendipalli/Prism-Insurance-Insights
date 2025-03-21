@@ -1,6 +1,11 @@
 # Prism-Insurance-Insights
 # DataSet
 <a href="https://github.com/karthikvendipalli/Prism-Insurance-Insights/blob/main/InsuranceData.csv">DataSet</a>
+
+# Dashboard
+![image](https://github.com/user-attachments/assets/4ea6474f-2aeb-48cf-9092-6a6c4826057b)
+
+
  # Key Insights:
 ## Premium and Claim Overview:
 Total Premium Amount: $5.98M
